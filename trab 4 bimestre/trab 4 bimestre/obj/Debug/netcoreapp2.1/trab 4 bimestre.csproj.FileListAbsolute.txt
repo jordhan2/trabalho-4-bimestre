@@ -1,0 +1,11 @@
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\obj\Debug\netcoreapp2.1\trab 4 bimestre.csprojAssemblyReference.cache
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\obj\Debug\netcoreapp2.1\trab 4 bimestre.csproj.CoreCompileInputs.cache
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\obj\Debug\netcoreapp2.1\trab 4 bimestre.AssemblyInfoInputs.cache
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\obj\Debug\netcoreapp2.1\trab 4 bimestre.AssemblyInfo.cs
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\bin\Debug\netcoreapp2.1\trab 4 bimestre.deps.json
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\bin\Debug\netcoreapp2.1\trab 4 bimestre.runtimeconfig.json
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\bin\Debug\netcoreapp2.1\trab 4 bimestre.runtimeconfig.dev.json
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\bin\Debug\netcoreapp2.1\trab 4 bimestre.dll
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\bin\Debug\netcoreapp2.1\trab 4 bimestre.pdb
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\obj\Debug\netcoreapp2.1\trab 4 bimestre.dll
+C:\Users\jorel\source\repos\trab 4 bimestre\trab 4 bimestre\obj\Debug\netcoreapp2.1\trab 4 bimestre.pdb

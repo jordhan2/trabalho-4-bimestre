@@ -1,0 +1,11 @@
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\bin\Debug\netcoreapp2.1\trab 4 bimestre exer 3.deps.json
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\bin\Debug\netcoreapp2.1\trab 4 bimestre exer 3.runtimeconfig.json
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\bin\Debug\netcoreapp2.1\trab 4 bimestre exer 3.runtimeconfig.dev.json
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\bin\Debug\netcoreapp2.1\trab 4 bimestre exer 3.dll
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\bin\Debug\netcoreapp2.1\trab 4 bimestre exer 3.pdb
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\obj\Debug\netcoreapp2.1\trab 4 bimestre exer 3.csprojAssemblyReference.cache
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\obj\Debug\netcoreapp2.1\trab 4 bimestre exer 3.csproj.CoreCompileInputs.cache
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\obj\Debug\netcoreapp2.1\trab 4 bimestre exer 3.AssemblyInfoInputs.cache
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\obj\Debug\netcoreapp2.1\trab 4 bimestre exer 3.AssemblyInfo.cs
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\obj\Debug\netcoreapp2.1\trab 4 bimestre exer 3.dll
+C:\Users\jorel\source\repos\trab 4 bimestre exer 3\trab 4 bimestre exer 3\obj\Debug\netcoreapp2.1\trab 4 bimestre exer 3.pdb
